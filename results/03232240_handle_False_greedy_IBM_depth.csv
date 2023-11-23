@@ -1,0 +1,23 @@
+Filename,Size(number of gates),,,,Depth,,,,SQGs,,,,MQGs,,,,Total Time
+,before,after,reduce,,before,after,reduce,,before,after,reduce,,before,after,reduce,,
+./benchmark/handle/vbe_adder_3_after_light.qasm,89,89,0(-),,56,57,-1(-1.79%),,"39(s,tdg,t,h,sdg)","39(s,tdg,t,h,sdg)",0(-),,50(cx),50(cx),0(-),,0.2196953296661377
+./benchmark/handle/csla_mux_3_after_heavy.qasm,155,155,0(-),,63,63,0(-),,"85(s,tdg,t,h)","85(s,tdg,t,h)",0(-),,70(cx),70(cx),0(-),,0.28287196159362793
+./benchmark/handle/csum_mux_9_after_heavy.qasm,266,266,0(-),,47,47,0(-),,"126(s,tdg,t,h,sdg)","126(s,tdg,t,h,sdg)",0(-),,140(cx),140(cx),0(-),,0.7730770111083984
+./benchmark/handle/gf2^E163_mult_after_light.qasm,267558,267558,0(-),,5445,5446,-1(-0.02%),,"107658(s,tdg,t,h,sdg)","107658(s,tdg,t,h,sdg)",0(-),,159900(cx),159900(cx),0(-),,1362.9078586101532
+./benchmark/handle/gf2^E131_mult_after_light.qasm,173370,173370,0(-),,4373,4382,-9(-0.21%),,"69754(s,tdg,t,h,sdg)","69754(s,tdg,t,h,sdg)",0(-),,103616(cx),103616(cx),0(-),,899.9094786643982
+./benchmark/handle/gf2^E4_mult_after_heavy.qasm,187,187,0(-),,102,102,0(-),,"88(s,tdg,t,h,sdg)","88(s,tdg,t,h,sdg)",0(-),,99(cx),99(cx),0(-),,0.600691556930542
+./benchmark/handle/tof_3_before.qasm,9,45,-36(-400.00%),,7,23,-16(-228.57%),,6(h),"27(tdg,t,h)",-21(-350.00%),,3(ccz),18(cx),-15(-500.00%),,0.02452373504638672
+./benchmark/handle/qcla_adder_10_after_light.qasm,411,411,0(-),,66,66,0(-),,"216(s,tdg,t,h,sdg)","216(s,tdg,t,h,sdg)",0(-),,195(cx),195(cx),0(-),,0.9903202056884766
+./benchmark/handle/csla_mux_3_before_original.qasm,50,170,-120(-240.00%),,17,59,-42(-247.06%),,20(h),"90(tdg,t,h)",-70(-350.00%),,"30(cx,ccz)",80(cx),-50(-166.67%),,0.3657498359680176
+./benchmark/handle/gf2^E6_mult_before.qasm,113,495,-382(-338.05%),,43,139,-96(-223.26%),,72(h),"274(tdg,t,h)",-202(-280.56%),,"41(cx,ccz)",221(cx),-180(-439.02%),,1.0485634803771973
+./benchmark/handle/gf2^E8_mult_before.qasm,213,883,-670(-314.55%),,65,200,-135(-207.69%),,128(h),"478(tdg,t,h)",-350(-273.44%),,"85(cx,ccz)",405(cx),-320(-376.47%),,2.118081569671631
+./benchmark/handle/adder_8_before.qasm,216,882,-666(-308.33%),,55,189,-134(-243.64%),,"92(x,h)","491(x,tdg,t,h)",-399(-433.70%),,"124(cx,ccz)",391(cx),-267(-215.32%),,5.776646375656128
+./benchmark/handle/mod_adder_1024_before.qasm,865,4285,-3420(-395.38%),,521,2218,-1697(-325.72%),,570(h),"2565(tdg,t,h)",-1995(-350.00%),,"295(cx,ccz)",1720(cx),-1425(-483.05%),,7.316747188568115
+./benchmark/handle/barenco_tof_4_after_light.qasm,78,78,0(-),,75,71,4(5.33%),,"38(tdg,t,h)","38(tdg,t,h)",0(-),,40(cx),40(cx),0(-),,0.1536719799041748
+./benchmark/handle/gf2^E9_mult_after_heavy.qasm,891,891,0(-),,259,259,0(-),,"397(s,tdg,t,h,sdg)","397(s,tdg,t,h,sdg)",0(-),,494(cx),494(cx),0(-),,3.607494831085205
+./benchmark/handle/mod_red_21_after_heavy.qasm,180,180,0(-),,129,129,0(-),,"103(tdg,t,h)","103(tdg,t,h)",0(-),,77(cx),77(cx),0(-),,0.31827712059020996
+./benchmark/handle/gf2^E7_mult_after_light.qasm,555,555,0(-),,207,207,0(-),,"255(s,tdg,t,h,sdg)","255(s,tdg,t,h,sdg)",0(-),,300(cx),300(cx),0(-),,2.0606536865234375
+./benchmark/handle/barenco_tof_10_before.qasm,66,450,-384(-581.82%),,65,241,-176(-270.77%),,34(h),"258(tdg,t,h)",-224(-658.82%),,32(ccz),192(cx),-160(-500.00%),,0.8323252201080322
+./benchmark/handle/barenco_tof_5_after_heavy.qasm,104,104,0(-),,95,95,0(-),,"54(tdg,t,h)","54(tdg,t,h)",0(-),,50(cx),50(cx),0(-),,0.20974349975585938
+./benchmark/handle/vbe_adder_3_after_heavy.qasm,89,89,0(-),,58,62,-4(-6.90%),,"39(s,tdg,t,h,sdg)","39(s,tdg,t,h,sdg)",0(-),,50(cx),50(cx),0(-),,0.24140381813049316
+./benchmark/handle/gf2^E10_mult_after_light.qasm,1070,1070,0(-),,299,299,0(-),,"461(s,tdg,z,t,h,sdg)","461(s,tdg,z,t,h,sdg)",0(-),,609(cx),609(cx),0(-),,4.718622207641602

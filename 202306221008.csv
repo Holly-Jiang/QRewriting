@@ -1,0 +1,13 @@
+Filename,Size(number of gates),,,,Depth,,,,SQGs,,,,MQGs,,,,Total Time
+,before,after,reduce,,before,after,reduce,,before,after,reduce,,before,after,reduce,,
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_0.qasm,45,23,22(48.89%),,45,15,30(66.67%),,0(),0(),0(-),,45(cx),23(cx),22(48.89%),,0.12499213218688965,27.171875
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_1.qasm,45,26,19(42.22%),,45,22,23(51.11%),,0(),0(),0(-),,45(cx),26(cx),19(42.22%),,0.26561784744262695,27.23828125
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_2.qasm,45,24,21(46.67%),,45,17,28(62.22%),,0(),0(),0(-),,45(cx),24(cx),21(46.67%),,0.28139328956604004,27.80859375
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_3.qasm,45,22,23(51.11%),,44,18,26(59.09%),,0(),0(),0(-),,45(cx),22(cx),23(51.11%),,0.10923624038696289,27.30859375
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_4.qasm,45,28,17(37.78%),,45,20,25(55.56%),,0(),0(),0(-),,45(cx),28(cx),17(37.78%),,0.20330500602722168,27.76171875
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_5.qasm,45,18,27(60.00%),,45,7,38(84.44%),,0(),0(),0(-),,45(cx),18(cx),27(60.00%),,0.07792401313781738,27.76171875
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_6.qasm,45,19,26(57.78%),,45,13,32(71.11%),,0(),0(),0(-),,45(cx),19(cx),26(57.78%),,0.12500929832458496,27.26171875
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_7.qasm,45,21,24(53.33%),,45,10,35(77.78%),,0(),0(),0(-),,45(cx),21(cx),24(53.33%),,0.1874692440032959,27.81640625
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_8.qasm,45,22,23(51.11%),,45,13,32(71.11%),,0(),0(),0(-),,45(cx),22(cx),23(51.11%),,0.15623927116394043,27.31640625
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_9.qasm,45,13,32(71.11%),,45,8,37(82.22%),,0(),0(),0(-),,45(cx),13(cx),32(71.11%),,0.07813715934753418,27.31640625
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.2D2_0.qasm,90,54,36(40.00%),,45,20,25(55.56%),,0(),0(),0(-),,90(cx),54(cx),36(40.00%),,2.250305652618408,27.796875

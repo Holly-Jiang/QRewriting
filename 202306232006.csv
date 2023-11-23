@@ -1,0 +1,10 @@
+Filename,Size(number of gates),,,,Depth,,,,SQGs,,,,MQGs,,,,Total Time
+,before,after,reduce,,before,after,reduce,,before,after,reduce,,before,after,reduce,,
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_0.qasm,45,23,22(48.89%),,45,15,30(66.67%),,0(),0(),0(-),,45(cx),23(cx),22(48.89%),,0.10936570167541504,27.66796875
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_1.qasm,45,26,19(42.22%),,45,22,23(51.11%),,0(),0(),0(-),,45(cx),26(cx),19(42.22%),,0.21872329711914062,27.78125
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_2.qasm,45,24,21(46.67%),,45,17,28(62.22%),,0(),0(),0(-),,45(cx),24(cx),21(46.67%),,0.28125572204589844,27.3515625
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_3.qasm,45,22,23(51.11%),,44,18,26(59.09%),,0(),0(),0(-),,45(cx),22(cx),23(51.11%),,0.07811236381530762,27.8515625
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_4.qasm,45,28,17(37.78%),,45,20,25(55.56%),,0(),0(),0(-),,45(cx),28(cx),17(37.78%),,0.1874830722808838,27.7890625
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_5.qasm,45,15,30(66.67%),,45,7,38(84.44%),,0(),0(),0(-),,45(cx),15(cx),30(66.67%),,0.14061570167541504,27.7890625
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_6.qasm,45,19,26(57.78%),,45,13,32(71.11%),,0(),0(),0(-),,45(cx),19(cx),26(57.78%),,0.10935425758361816,27.7890625
+E:\github\pm\qcpm-master\benchmark\BIGD\20QBT_45CYC_.0D1_.1D2_7.qasm,45,21,24(53.33%),,45,10,35(77.78%),,0(),0(),0(-),,45(cx),21(cx),24(53.33%),,0.17184996604919434,27.8515625
